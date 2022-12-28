@@ -24,10 +24,9 @@ A console based UI where users can navigate by int inpout from keyboard
 
 
 CRUD DB functions
-
-    - From the main menu users can Create, Read, Update or Delete entries for whichever date they want, entered in DD-MM-YYYY format.
-    - Dates inputted are checked to make sure they are in the correct and realistic format.
-    - Numeric and titles/units are type checked before an attempt of string in the database
+  - From the main menu users can Create, Read, Update or Delete entries for whichever date they want, entered in DD-MM-YYYY format.
+  - Dates inputted are checked to make sure they are in the correct and realistic format.
+  - Numeric and titles/units are type checked before an attempt of string in the database
 
 # Challenges 
 
