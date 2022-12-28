@@ -65,7 +65,7 @@ CRUD DB functions
     
 # Resources Used
 
-  - he help and advice of my mentor Cappuccinocodes
+  - The help and advice of my mentor Cappuccinocodes
   
   - IamTimCorey youtube sql video series 
   
