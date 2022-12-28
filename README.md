@@ -1,7 +1,7 @@
 # HabitTracker
 Console program of adding and tracking habits to an SQLite Database using CRUD Operations
 
-#Given Requirements:
+# Given Requirements:
 - [x] Application register habbits
 - [x] This habit can't be tracked by time (ex. hours of sleep), only by quantity (ex. number of water glasses a day)
 - [x] User can add a unit measurment for habit if they wish (KM. L, Milese etc)
@@ -13,7 +13,7 @@ Console program of adding and tracking habits to an SQLite Database using CRUD O
 - [x] Handle all possible errors so that the application never crashes.
 - [x] can only interact with the database using raw SQL. You can’t use mappers such as Entity Framework.
 
-#Features
+# Features
 
 SQLite database connection
  - The program uses a SQLite db connection to store and read information.
