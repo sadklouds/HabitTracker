@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HabbitTracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\MegaSync\\C#Journey\\Projects\\Main\\HabbitTracker\\HabbitTracker"
+    }
+  }
+}
